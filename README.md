@@ -154,7 +154,6 @@ Controleur.tenterAllumage()
 
 ```
 Chaudiere.allumer()
-  synchronized:
     ignition().
     miseEnRouteMoteur().
     ([ succès ]
