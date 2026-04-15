@@ -1,0 +1,27 @@
+# --- Maven ---
+target/
+
+# --- IDE IntelliJ ---
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# --- IDE Eclipse ---
+.classpath
+.project
+.settings/
+
+# --- IDE VS Code ---
+.vscode/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Java ---
+*.class
+*.jar
+*.war
+*.log
